@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\data\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:data\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|c:\\users\\administrateur\\onedrive - m2i\\documents\\projet final\\api v1\\blogapi\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F670F030-5E12-BFCE-D4D7-8375E9ECF56B}|BlogApi.csproj|solutionrelative:services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 128,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-01T15:18:10.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:47:47.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:23:34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Data\\BlogContext.cs",
+              "RelativeDocumentMoniker": "Data\\BlogContext.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Data\\BlogContext.cs",
+              "RelativeToolTip": "Data\\BlogContext.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAYwFsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:21:10.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Models\\Article.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Models\\Article.cs",
+              "RelativeToolTip": "Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:30:12.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Services\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Services\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Services\\ArticleService.cs",
+              "RelativeToolTip": "Services\\ArticleService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:28:19.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:01:10.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:48:57.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\OneDrive - M2I\\Documents\\PROJET FINAL\\API V1\\BlogApi\\Services\\CommentService.cs",
+              "RelativeToolTip": "Services\\CommentService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:49:41.381Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
